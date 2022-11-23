@@ -1,10 +1,12 @@
 # Hi there 👋
 
-## I'm Ben and I'm a Senior Software Engineer at [Babylon Health](https://www.babylonhealth.com). You can find my work GitHub profile here [@BenRoutBabylonHealth](https://github.com/BenRoutBabylonHealth).
+I'm Ben and I'm a Senior Software Engineer at [Babylon Health](https://www.babylonhealth.com). You can find my work GitHub profile here [@BenRoutBabylonHealth](https://github.com/BenRoutBabylonHealth).
 
-## I specialise in Front End technologies including: JavaScript, TypeScript, ReactJS, GraphQL. But I also have experience with: Python, NodeJS and C.
+## Skills
+I specialise in Front End technologies including: JavaScript, TypeScript, ReactJS, GraphQL. But I also have experience with: Python, NodeJS and C.
 
-## 📫 Feel free to reach out and say "Hey!":
+## Contact 📫
+Feel free to reach out and say "Hey!":
 - [linkedin.com/in/benadamrout](https://www.linkedin.com/in/benadamrout)
 
 <!--
