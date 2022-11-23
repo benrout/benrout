@@ -1,6 +1,7 @@
 # Hi there 👋
 
-I'm Ben and I'm a Senior Software Engineer at [Babylon Health](https://www.babylonhealth.com) (see [@BenRoutBabylonHealth](https://github.com/BenRoutBabylonHealth)).
+I'm Ben and I'm a Senior Software Engineer at [Babylon Health](https://www.babylonhealth.com) (see [@BenRoutBabylonHealth](https://github.com/BenRoutBabylonHealth)) where our mission is:
+> To make high-quality healthcare accessible and affordable for everyone on Earth.
 
 ## 🚀 Skills
 I specialise in the following languages and technologies:
