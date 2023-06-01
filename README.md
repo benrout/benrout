@@ -1,12 +1,12 @@
 # 👋 Hi there
 
-I'm Ben and I'm a Senior Software Engineer at [Babylon Health](https://www.babylonhealth.com) (see [@BenRoutBabylonHealth](https://github.com/BenRoutBabylonHealth)).
+I'm Ben and I'm a Senior Software Engineer at [JPMorgan Chase & Co.](https://www.jpmorganchase.com/).
 
 ## 🚀 Skills
 I specialise in the following languages and technologies:
+- ReactJS
 - JavaScript
 - TypeScript
-- ReactJS
 - GraphQL
 - NodeJS
 
