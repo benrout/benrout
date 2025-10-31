@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm Ben and I'm a Senior Software Engineer at [JPMorgan Chase & Co.](https://www.jpmorganchase.com/).
+I'm Ben and I'm a Lead Software Engineer at [JPMorgan Chase & Co.](https://www.jpmorganchase.com/).
 
 ## 🚀 Skills
 I specialise in the following languages and technologies:
@@ -10,7 +10,7 @@ I specialise in the following languages and technologies:
 - GraphQL
 - NodeJS
 
-But I also have experience with:
+I also have experience with:
 - Python
 - C
 
