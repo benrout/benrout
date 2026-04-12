@@ -3,16 +3,13 @@
 I'm Ben and I'm a Lead Software Engineer at [JPMorgan Chase & Co.](https://www.jpmorganchase.com/).
 
 ## 🚀 Skills
-I specialise UI development and AI/ML integration. I have extensive experience with following programming languages and technologies:
+I specialise UI development and AI/ML integration. I have experience with following programming languages and technologies:
 - ReactJS
 - JavaScript
 - TypeScript
-- GraphQL
-- NodeJS
-
-I also have experience with:
 - Python
-- C
+- NodeJS
+- GraphQL
 
 ## 📫 Contact
 Feel free to reach out and say "Hey!":
